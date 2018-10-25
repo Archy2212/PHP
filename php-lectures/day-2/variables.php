@@ -1,6 +1,6 @@
 <?php 
 $name = "Archy";
-$age = 30;
+$age = 22;
 echo "Hello $name, you are $age years old.<br>";
 $N = 3;
 $ageN = $age+$N;
