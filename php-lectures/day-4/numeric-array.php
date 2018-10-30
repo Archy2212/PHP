@@ -14,7 +14,7 @@
          $numbers[1] = "two ";
          $numbers[2] = "three ";
          $numbers[3] = "four ";
-         $numbers[4] = "five";
+         $numbers[4] = "five ";
          
          foreach( $numbers as $value ) {
             echo "Value is $value <br />";
