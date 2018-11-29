@@ -7,8 +7,7 @@
          
          foreach( $numbers as $value ) {
             echo "Value is $value <br />";
-         }
-         
+         }         
          /* Second method to create array. */
          $numbers[0] = " one ";
          $numbers[1] = " two ";
