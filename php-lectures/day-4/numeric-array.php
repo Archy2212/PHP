@@ -1,6 +1,6 @@
 <html>
    <body>
-  
+
       <?php
          /* First method to create array. */
          $numbers = array( 1, 2, 3, 4, 5);
